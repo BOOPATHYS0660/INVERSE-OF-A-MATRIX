@@ -14,7 +14,7 @@ Step 3:
 Compute the inverse of matrix A using np.linalg.inv()
 Step 4:
 Display the rank of matrix A using the print() statement.
-Step 4:
+Step 5:
 End the program.
 ```
 ## Program:
